@@ -43,6 +43,6 @@ Practical cybersecurity activities must be performed only on systems, files, net
 
 ### Instructor
 
-Dr. Brahim Ferik
-Course: Information and Data Security
-Academic Year: 2026–2027
+- **Dr. Brahim Ferik**
+- **Course: Information and Data Security**
+- **Academic Year: 2026–2027**
