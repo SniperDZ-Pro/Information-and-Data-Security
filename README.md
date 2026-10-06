@@ -27,5 +27,22 @@ Available materials:
   - Practical exercises supporting the concepts introduced in the theoretical chapter
 
 
+### Recommended Use
 
-...
+Students are encouraged to:
+1. Read the theoretical chapter before the practical session.
+2. Review the definitions, diagrams, tables, and security concepts.
+3. Complete the associated practical exercises.
+4. Keep screenshots, observations, and results when a practical report is required.
+5. Use all security tools and exercises only within authorized educational environments.
+
+### Academic Use
+
+These materials are provided for educational and academic purposes as part of the Information and Data Security course.
+Practical cybersecurity activities must be performed only on systems, files, networks, and accounts for which the student has explicit authorization.
+
+### Instructor
+
+Dr. Brahim Ferik
+Course: Information and Data Security
+Academic Year: 2026–2027
