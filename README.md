@@ -26,7 +26,19 @@ Available materials:
 - **Chapter 1 — Practical Work**
   - Practical exercises supporting the concepts introduced in the theoretical chapter
 
+### Chapter 2 — Identity and Access Security: Risk Management, Authentication, and Access Control
 
+**Status: Available**
+
+Chapter 2 explores identity-related risk management, threat actors, attack lifecycles, authentication mechanisms, password security, access-control principles, authorization models, and Role-Based Access Control (RBAC).
+
+Available materials:
+
+- **Chapter 2 — Theory**
+  - *Identity and Access Security: Risk Management, Authentication, and Access Control*
+- **Chapter 2 — Practical Work**
+  - Practical exercises reinforcing authentication, password security, and access-control concepts.
+    
 ### Recommended Use
 
 Students are encouraged to:
